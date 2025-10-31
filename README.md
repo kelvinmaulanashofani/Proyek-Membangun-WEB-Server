@@ -6,7 +6,7 @@ This project was created to understand how web servers work, how to configure a 
 ---
 
 ## ⚙️ Technologies Used
-- **Operating System:** Linux (Ubuntu/Debian)
+- **Operating System:** Kali Linux
 - **Web Servers:** Nginx, Apache
 - **Backend:** Node.js
 - **Tools:** netstat, curl, systemctl, ufw
